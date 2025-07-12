@@ -51,3 +51,22 @@ nav ul{
     background-image: url("/Hero-bg.png");
     height: 700px;
 }
+div p{
+    font-weight: 5;
+    font-style: normal;
+    padding: 15px 0;
+}
+.img-content{
+    background-image: url("/wc-mini.png");
+    width: 420px;
+    height: 320px;
+    border-radius: 35px;
+}
+.main-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content:space-around;
+    padding-top: 30px ;
+}
+
