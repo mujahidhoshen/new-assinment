@@ -94,3 +94,48 @@ div p{
     color: #4E47FF;
     font-size: 80px;
 }
+/* review-section */
+.review-section{
+    padding: 40px 20px;
+    background-color: #fff;
+}
+.review-section h2{
+    font-size: 32px;
+    margin-top: 40px;
+    text-align: center;
+}
+.reviews{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.stars{
+    color: orange;
+    font-size: 18px;
+}
+.review-card {
+    background: #dad7d7;
+    padding: 20px;
+    border-radius: 12px;
+    width: 250px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+}
+.reviewer img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.reviewer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+    color: #3e3e3e;
+}
+.date-p{
+    font-size: x-small;
+    padding: 0 0 0 50px;
+    color: #7a7575;
+}
