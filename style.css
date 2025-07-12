@@ -51,7 +51,7 @@ nav ul{
 
 .nav-banner{
     background-color: rgb(219, 219, 235);
-    background-image: url("/Hero-bg.png");
+    background-image: url("Hero-bg.png");
     height: 700px;
 }
 div p{
@@ -60,7 +60,7 @@ div p{
     padding: 15px 0;
 }
 .img-content{
-    background-image: url("/wc-mini.png");
+    background-image: url("wc-mini.png");
     width: 420px;
     height: 320px;
     border-radius: 35px;
