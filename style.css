@@ -36,6 +36,9 @@ nav ul{
     padding: 8px 20px;
     border-radius: 6px;
     border: none;
+    transition: all;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
 }
 .banner-content{
     align-items: center;
@@ -226,4 +229,9 @@ footer a{
 }
 footer a:hover {
     color: #1f53ff;
+}
+button:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 149);
+    font-size: large;
 }
