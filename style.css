@@ -139,3 +139,34 @@ div p{
     padding: 0 0 0 50px;
     color: #7a7575;
 }
+/* news-section */
+.news-section{
+    padding: 40px 20px;
+    background-color: #eef3fd;
+}
+.news-section h2{
+    margin-bottom: 10px;
+}
+.news-section p{
+    color: #666;
+    margin-bottom: 20px;
+}
+/* .news-section button{
+        background-color:#4E47FF;
+    font-weight: normal;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 6px;
+    border: none;
+} */
+.news-section img{
+    margin-top: 30px;
+    max-width: 90%;
+    border-radius: 16px
+}
+.news-section div{
+    text-align: center;
+}
+.news-section-title{
+    text-align: center;
+}
