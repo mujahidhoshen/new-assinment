@@ -69,4 +69,28 @@ div p{
     justify-content:space-around;
     padding-top: 30px ;
 }
-
+        /* action-section */
+.action-section{
+    background-color: #aaa7fb;
+    margin: 80px 130px;
+    border-radius: 40px;
+}
+.action-title{
+    text-align: center;
+    padding: 50px 0 40px 0;
+}
+.action-decription{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.action-decription p{
+    color:#5f5f61;
+    font-size:medium;
+    padding-bottom:50px;
+}
+.action-decription h1{
+    color: #4E47FF;
+    font-size: 80px;
+}
